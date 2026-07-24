@@ -39,4 +39,3 @@ This build uses the archived official GENEVIEVE App™ assets without recolourin
 
 
 ## v4.1 correction
-Removed the Dog Park/Mr Gruff seeded example from the health app. Existing exact seeded text is automatically replaced with neutral wellbeing examples. User-entered records are not altered.
