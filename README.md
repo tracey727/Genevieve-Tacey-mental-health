@@ -1,8 +1,8 @@
-# GENEVIEVE LISTENS™ Life Companion v3 — Transferable Pilot
+# GENEVIEVE LISTENS™ Life Companion v4 — Transferable Pilot
 
 A static GitHub/Vercel-ready PWA using the archived Genevieve health colours and Tree & Roots emblem.
 
-## New in v3
+## New in v4
 
 - Password-protected phone-to-phone transfer file
 - AES-256-GCM browser encryption
@@ -27,3 +27,12 @@ Upload the contents of this folder to the root of the existing GitHub repository
 ## Pilot boundary
 
 This is a private self-use pilot. It is not a clinical record system, emergency monitor, diagnosis tool or replacement for emergency services. No clinician is automatically notified.
+
+
+## Official locked branding
+
+This build uses the archived official GENEVIEVE App™ assets without recolouring or redesign:
+
+- Gold A / centred black G emblem in the header and phone icons.
+- Tree & Roots emblem prominently on the home screen.
+- GENEVIEVE LISTENS listening-ear marker remains as the module identifier.
